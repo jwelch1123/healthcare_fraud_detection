@@ -25,3 +25,8 @@ The only source of unaccounted missingess is the Amount of Deductable Paid ('Ded
 
 
 # Analysis
+
+
+# Photo Credit
+Photo by [Online Marketing](https://unsplash.com/@impulsq?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Upsplash](https://unsplash.com/s/photos/healthcare?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
